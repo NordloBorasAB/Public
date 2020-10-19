@@ -7,8 +7,8 @@
 
 .NOTES
     FileName:   Get-ExpiringUserPasswords.ps1
-	Authors:    Bradley Wyatt
-				Victor Dahlberg, Nordlo
+    Authors:    Bradley Wyatt
+		Victor Dahlberg, Nordlo
     Created:	2020-10-15
     Updated:    2020-10-15
 
